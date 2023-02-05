@@ -1,0 +1,14 @@
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/www/server/project/chat/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/www/server/project/chat/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/www/server/project/chat/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/www/server/project/chat/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/www/server/project/chat/node_modules/mysql/lib/Connection.js:94:28)
+    at Socket.<anonymous> (/www/server/project/chat/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
